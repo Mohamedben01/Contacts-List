@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "first_name": "User",
+      "last_name": "1",
+      "job": "Job1",
+      "email": "user1@gmail.com",
+      "phone": "0600000000"
+    },
+    {
+      "id": 2,
+      "first_name": "User",
+      "last_name": "2",
+      "job": "Job2",
+      "email": "user2@gmail.com",
+      "phone": "0600000000"
+    },
+    {
+      "id": 3,
+      "first_name": "User",
+      "last_name": "3",
+      "job": "Job3",
+      "email": "user3@gmail.com",
+      "phone": "0600000000"
+    }
+
+  ]
+}
